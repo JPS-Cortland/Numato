@@ -1,5 +1,5 @@
 # Numato
-Code for the MimasV2 development board by Numato Lab. Most of the code was copied from
+Code for the MimasV2 development board by Numato Lab, along with the AC97 Extender Board. Most of the code was copied from
 http://web.mit.edu/6.111/www/f2007/handouts/labs/lab4.html (following the link to lab4.v).
 The MIT code was written for their own development board based on the Xilinx Virtex II FPGA
 The most important modules are those that handle communication with the LM4550 audio IO chip - AC97 codec.
